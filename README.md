@@ -1,6 +1,6 @@
 # Hello everyone!!
 
-## Who I am?
+## Who I am? 🤨
 I'm Carlos and I'm a ~~noob~~ hobby developer and I want to create a awesome autobiography and very cool 😎
 
 <p align="center">
@@ -8,12 +8,21 @@ I'm Carlos and I'm a ~~noob~~ hobby developer and I want to create a awesome aut
 </p>
 
 ## 🌟My skills🌟
-I'm still learning but I can use this technologies:\n
+I'm still learning but I can use this technologies:
+
 ![My Skills](https://skillicons.dev/icons?i=py,mysql,java,gradle)
 ![My fav text editor](https://skillicons.dev/icons?i=vscode)
 
+## 💕My hobbies💕
+ - Play music 🎶
+ - Draw ✏️
+ - Be a programmer 🖥️
+ - Play videogames 🕹️
+ - Play basketball 🏀
+
 ## How you can contact me? 
 You can contact me with my social media:
+
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/WiiFlowers)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/728721100862914690)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/carlos.cuack/)
