@@ -8,7 +8,7 @@ I'm Carlos and I'm a ~~noob~~ hobby developer and I want to create a awesome aut
 </p>
 
 ## 🌟My skills🌟
-I'm still learning but I can use this technologies:
+I'm still learning but I can use this technologies:\n
 ![My Skills](https://skillicons.dev/icons?i=py,mysql,java,gradle)
 ![My fav text editor](https://skillicons.dev/icons?i=vscode)
 
