@@ -2,6 +2,8 @@
 
 ## Who I am? 🤨
 I'm Carlos and I'm a ~~noob~~ hobby developer and I want to create a awesome autobiography and very cool 😎
+I'm from El Salvador 🇸🇻, I speak native spanish and a little of english.
+I'm autodidactic and I love to learn. I can write "I" nine times in a paragraph. 🤖
 
 <p align="center">
   <img src="pikachuLove.gif"/>
@@ -20,7 +22,7 @@ I'm still learning but I can use this technologies:
  - Play videogames 🕹️
  - Play basketball 🏀
 
-## How you can contact me? 
+## 🌎How to reach me🌍
 You can contact me with my social media:
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/WiiFlowers)
