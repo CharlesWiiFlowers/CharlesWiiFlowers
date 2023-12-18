@@ -29,6 +29,7 @@ You can contact me with my social media:
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/728721100862914690)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/carlos.cuack/)
 [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://es.stackoverflow.com/users/313581/carlos)
+[![Twitch](https://skillicons.dev/icons?i=twitch)](https://www.twitch.tv/carloscuack_)
 
 ## Thank you for read this
 ![Bye](https://github.com/CarlosCuack/CarlosCuack/blob/9ee704e3e4673890a9b285a34dc918eac235b042/Pikachu%20Dance.gif)
