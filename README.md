@@ -12,7 +12,7 @@ I'm autodidactic and I love to learn. I can write "I" nine times in a paragraph.
 ## 🌟My skills🌟
 I'm still learning but I can use this technologies:
 
-![My Skills](https://skillicons.dev/icons?i=py,mysql,java,gradle)
+![My Skills](https://skillicons.dev/icons?i=py,mysql,java,gradle,arduino)
 ![My fav text editor](https://skillicons.dev/icons?i=vscode)
 
 ## 💕My hobbies💕
