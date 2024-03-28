@@ -1,9 +1,7 @@
 # Hello everyone!!
 
 ## Who I am? 🤨
-I'm Carlos and I'm a ~~noob~~ hobby developer and I want to create a awesome autobiography and very cool 😎
-I'm from El Salvador 🇸🇻, I speak native spanish and a little of english.
-I'm autodidactic and I love to learn. I can write "I" nine times in a paragraph. 🤖
+Hello, my name is Carlos and I'm a hobby developer 🤖. I want to help everyone with my projects. If you've some idea for a new app, please make me know!! 🚀
 
 <p align="center">
   <img src="pikachuLove.gif"/>
@@ -12,7 +10,7 @@ I'm autodidactic and I love to learn. I can write "I" nine times in a paragraph.
 ## 🌟My skills🌟
 I'm still learning but I can use this technologies:
 
-![My Skills](https://skillicons.dev/icons?i=py,mysql,java,gradle,arduino)
+![My Skills](https://skillicons.dev/icons?i=mysql,arduino,java,gradle,py,c,cpp)
 ![My fav text editor](https://skillicons.dev/icons?i=vscode)
 
 ## 💕My hobbies💕
