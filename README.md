@@ -10,7 +10,7 @@ Hello, my name is Carlos and I'm a hobby developer 🤖. I want to help everyone
 ## 🌟My skills🌟
 I'm still learning but I can use this technologies:
 
-![My Skills](https://skillicons.dev/icons?i=mysql,arduino,java,gradle,py,c,cpp)
+![My Skills](https://skillicons.dev/icons?i=mysql,arduino,rust,java,gradle,py,c,cpp)
 ![My fav text editor](https://skillicons.dev/icons?i=vscode)
 
 ## 💕My hobbies💕
