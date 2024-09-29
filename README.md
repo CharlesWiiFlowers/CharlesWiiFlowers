@@ -29,7 +29,7 @@ You can contact me with my social media:
 [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://es.stackoverflow.com/users/313581/carlos)
 [![Twitch](https://skillicons.dev/icons?i=twitch)](https://www.twitch.tv/carloscuack_)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charleswiiflowers)](https://github.com/charleswiiflowers)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charleswiiflowers&layout=donut&theme=default)](https://github.com/charleswiiflowers)
 
 ## Thank you for read this
 ![Bye](https://github.com/CarlosCuack/CarlosCuack/blob/9ee704e3e4673890a9b285a34dc918eac235b042/Pikachu%20Dance.gif)
