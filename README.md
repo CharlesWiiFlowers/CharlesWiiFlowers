@@ -13,6 +13,8 @@ I'm still learning but I can use this technologies:
 ![My Skills](https://skillicons.dev/icons?i=mysql,arduino,rust,java,gradle,py,c,cpp,kivy&perline=4)
 ![My fav text editor](https://skillicons.dev/icons?i=vscode)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charleswiiflowers&layout=donut&theme=dark)](https://github.com/charleswiiflowers)
+
 ## 💕My hobbies💕
  - Play music 🎶
  - Draw and paint ✏️
@@ -28,8 +30,6 @@ You can contact me with my social media:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/carlos.cuack/)
 [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://es.stackoverflow.com/users/313581/carlos)
 [![Twitch](https://skillicons.dev/icons?i=twitch)](https://www.twitch.tv/carloscuack_)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charleswiiflowers&layout=donut&theme=default)](https://github.com/charleswiiflowers)
 
 ## Thank you for read this
 ![Bye](https://github.com/CarlosCuack/CarlosCuack/blob/9ee704e3e4673890a9b285a34dc918eac235b042/Pikachu%20Dance.gif)
