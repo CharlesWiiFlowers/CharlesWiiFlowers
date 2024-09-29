@@ -1,13 +1,14 @@
 # Hello everyone!!
 
-## About me 🤖
+## 🤖 About me 🤖
 I'm a hobbyist developer. I'm passionate about creating projects to help others. If you have an idea for a new app, feel free to share it with me! 🦈
 
-- 🔭 I’m currently working on ![KioscoApp](https://github.com/CharlesWiiFlowers/KioscoApp)
+- 🔭 I’m currently working on [KioscoApp](https://github.com/CharlesWiiFlowers/KioscoApp)
 - 🌱 I’m currently learning Mobile Development with Kivy
 - ⚡ Fun fact: I'm 16 years old
+- 📌 Currently playing: Hollow Knight
 
-## 🌟My skills🌟
+## 🌟 My skills 🌟
 I'm still learning but I can use this technologies:
 
 ![My Skills](https://skillicons.dev/icons?i=mysql,arduino,rust,java,gradle,py,c,cpp,kivy&perline=4)
@@ -15,14 +16,15 @@ I'm still learning but I can use this technologies:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charleswiiflowers&layout=donut&theme=dark)](https://github.com/charleswiiflowers)
 
-## 💕My hobbies💕
- - Play music 🎶
- - Draw and paint ✏️
- - Be a programmer 🖥️
- - Play videogames 🕹️
- - Play basketball 🏀
+## 💕 My hobbies 💕
+ - 🎶 Play music
+ - 🖌 Draw and paint
+ - 🧮 Learn maths
+ - 🎮 Play videogames
+ - 🥋 Play basketball and Karate
+ - 📚 Learn new things
 
-## 🌎How to reach me🌍
+## 🌎 How to reach me 🌍
 You can contact me with my social media:
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/WiiFlowers)
@@ -31,7 +33,7 @@ You can contact me with my social media:
 [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://es.stackoverflow.com/users/313581/carlos)
 [![Twitch](https://skillicons.dev/icons?i=twitch)](https://www.twitch.tv/carloscuack_)
 
-## Thank you for read this
+## 💾 Thank you for read ⚙️
 ![Bye](https://github.com/CarlosCuack/CarlosCuack/blob/9ee704e3e4673890a9b285a34dc918eac235b042/Pikachu%20Dance.gif)
 
 <!--
