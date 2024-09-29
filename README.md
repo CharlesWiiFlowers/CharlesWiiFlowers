@@ -1,21 +1,21 @@
 # Hello everyone!!
 
-## Who I am? 🤨
-Hello, my name is Carlos and I'm a hobby developer 🤖. I want to help everyone with my projects. If you've some idea for a new app, please make me know!! 🚀
+## About me 🤖
+I'm a hobbyist developer. I'm passionate about creating projects to help others. If you have an idea for a new app, feel free to share it with me! 🦈
 
-<p align="center">
-  <img src="pikachuLove.gif"/>
-</p>
+- 🔭 I’m currently working on ![KioscoApp](https://github.com/CharlesWiiFlowers/KioscoApp)
+- 🌱 I’m currently learning Mobile Development with Kivy
+- ⚡ Fun fact: I'm 16 years old
 
 ## 🌟My skills🌟
 I'm still learning but I can use this technologies:
 
-![My Skills](https://skillicons.dev/icons?i=mysql,arduino,rust,java,gradle,py,c,cpp)
+![My Skills](https://skillicons.dev/icons?i=mysql,arduino,rust,java,gradle,py,c,cpp,kivy&perline=4)
 ![My fav text editor](https://skillicons.dev/icons?i=vscode)
 
 ## 💕My hobbies💕
  - Play music 🎶
- - Draw ✏️
+ - Draw and paint ✏️
  - Be a programmer 🖥️
  - Play videogames 🕹️
  - Play basketball 🏀
@@ -28,6 +28,8 @@ You can contact me with my social media:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/carlos.cuack/)
 [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://es.stackoverflow.com/users/313581/carlos)
 [![Twitch](https://skillicons.dev/icons?i=twitch)](https://www.twitch.tv/carloscuack_)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=charleswiiflowers&layout=compact&theme=dark
 
 ## Thank you for read this
 ![Bye](https://github.com/CarlosCuack/CarlosCuack/blob/9ee704e3e4673890a9b285a34dc918eac235b042/Pikachu%20Dance.gif)
