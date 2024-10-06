@@ -29,7 +29,6 @@ You can contact me with my social media:
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/WiiFlowers)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/728721100862914690)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/carlos.cuack/)
 [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://es.stackoverflow.com/users/313581/carlos)
 [![Twitch](https://skillicons.dev/icons?i=twitch)](https://www.twitch.tv/carloscuack_)
 
