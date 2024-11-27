@@ -12,7 +12,9 @@ I'm a hobbyist developer. I'm passionate about creating projects to help others.
 I'm still learning but I can use this technologies:
 
 ![My Skills](https://skillicons.dev/icons?i=mysql,arduino,rust,java,gradle,py,c,cpp,kivy&perline=4)
+
 ![My fav text editor](https://skillicons.dev/icons?i=vscode)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charleswiiflowers&layout=donut&theme=dark)](https://github.com/charleswiiflowers)
 
 ## 💕 My hobbies 💕
