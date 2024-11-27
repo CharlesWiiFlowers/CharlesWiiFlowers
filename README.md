@@ -3,17 +3,16 @@
 ## 🤖 About me 🤖
 I'm a hobbyist developer. I'm passionate about creating projects to help others. If you have an idea for a new app, feel free to share it with me! 🦈
 
-- 🔭 I’m currently working on [KioscoApp](https://github.com/CharlesWiiFlowers/KioscoApp)
-- 🌱 I’m currently learning Mobile Development with Kivy
+- 🔭 I’m currently working on [VRChatBodyTrack](https://github.com/CharlesWiiFlowers/VRChatBodyTrack)
+- 🌱 I’m currently learning OSC protocol
 - ⚡ Fun fact: I'm 16 years old
 - 📌 Currently playing: Hollow Knight
 
 ## 🌟 My skills 🌟
 I'm still learning but I can use this technologies:
 
-![My Skills](https://skillicons.dev/icons?i=mysql,arduino,rust,java,gradle,py,c,cpp,kivy&perline=4)
+![My Skills](https://skillicons.dev/icons?i=mysql,arduino,rust,java,gradle,py,c,cpp,kivy&perline=5)
 ![My fav text editor](https://skillicons.dev/icons?i=vscode)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charleswiiflowers&layout=donut&theme=dark)](https://github.com/charleswiiflowers)
 
 ## 💕 My hobbies 💕
