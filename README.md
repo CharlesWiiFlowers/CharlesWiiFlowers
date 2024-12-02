@@ -11,7 +11,7 @@ I'm a hobbyist developer. I'm passionate about creating projects to help others.
 ## 🌟 My skills 🌟
 I'm still learning but I can use this technologies:
 
-![My Skills](https://skillicons.dev/icons?i=mysql,arduino,rust,java,gradle,py,c,cpp,kivy,vscode&perline=4)
+![My Skills](https://skillicons.dev/icons?i=mysql,arduino,rust,java,gradle,py,c,cpp,kivy,vscode&perline=5)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charleswiiflowers&layout=donut&theme=dark)](https://github.com/charleswiiflowers)
 
