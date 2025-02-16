@@ -3,7 +3,7 @@
 <h2 align="center">A software developer</h2></h1>
 
 
-<p align="center">I'm 16 years old and I love. Currently I' learning web development!! 🦀</p>
+<p align="center">I'm 16 years old and I love it. Currently I'm learning web development!! 🦀</p>
 
 <p align="center">I'm still learning but I can use this technologies:</p>
 
