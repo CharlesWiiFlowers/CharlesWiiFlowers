@@ -17,7 +17,7 @@
 <h2 align="center">💾 Thank you for read ⚙️
 <p align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8tytdfohe1dmsoox1s5kxqcao&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charleswiiflowers" alt="charleswiiflowers" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=charleswiiflowers" alt="charleswiiflowers" /> </p>
 <!--
 mysql,arduino,rust,java,gradle,py,c,cpp,vscode
 ![Bye](https://github.com/CarlosCuack/CarlosCuack/blob/9ee704e3e4673890a9b285a34dc918eac235b042/Pikachu%20Dance.gif)
