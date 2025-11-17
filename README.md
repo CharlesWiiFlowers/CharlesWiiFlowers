@@ -1,24 +1,81 @@
-<h1 align="center">🌍 Hello World! I'm Carlos 🌎
-<h3 align="center">🦀 Aka Charles Flowers 🦈</h3>
-<h2 align="center">A software developer</h2></h1>
+```                                                    
+             _______  ___      _______  _     _  _______  ______    _______ 
+            |       ||   |    |       || | _ | ||       ||    _ |  |       |
+            |    ___||   |    |   _   || || || ||    ___||   | ||  |  _____| 
+            |   |___ |   |    |  | |  ||       ||   |___ |   |_||_ | |_____ 
+            |    ___||   |___ |  |_|  ||       ||    ___||    __  ||_____  |
+            |   |    |       ||       ||   _   ||   |___ |   |  | | _____| |
+            |___|    |_______||_______||__| |__||_______||___|  |_||_______|
+
+──────────────────────────────【 ⚙️ STATUS DIAGNOSTICS 】──────────────────────────────
+
+      > Boot Kernel ........................ OK
+      > Neuron Sync ........................ OK
+      > Creative Engine .................... OK
+      > Music-Core.vocaloid ................ ONLINE
+      > Math Driver ........................ ACTIVE
+      > DevKit Compiler .................... READY (Java / Python: calibrated)
+      > Mecha-Link Interface ............... SYNCED
+      > Emotional AI ....................... WARM
+
+────────────────────────────────【 🚀 PROFILE LOADED 】────────────────────────────────
+
+    Model Name:    FLOWERS Mk.I
+    Pilot:         C. FLOWERS
+    Pilot Age:     17 years old.
+    Core Traits:   [LOAD FAILED] MISSING INFORMATION
+    Mission:       Make the world a better place.
+    Alignment:     Witch From Mercury — hopeful, brave, softhearted metal.
+    Favorite Ops:  Programar, imaginar, cantar, aprender, filosofar.
+    Favorite Ops:  Develop, play piano, learn new things, 
+    Future Path:   Space Sector/* Mechatronic/*
+
+─────────────────────────【 🛡️ MODULES LOADED - SKILL STATS 】─────────────────────────
+
+        [MODULE] Language
+        ┌──────────────────────────────────────────────────────┐
+        │  Java          [████████████████░░░░]  80%   ☕      │
+        │  Python        [█████████████████░░░]  85%   🐍      |
+        |  Arduino       [██████████████████░░]  90%   🤖      │
+        │  Rust          [█████░░░░░░░░░░░░░░░]  25%   🦀      │
+        │  C / C++       [████░░░░░░░░░░░░░░░░]  20%   💻      │
+        │  HTML / CSS    [███████████████████░]  95%   🎨      │
+        │  JavaScript    [██████████████████░░]  90%   📂      │
+        │  TypeScript    [████████████████░░░░]  80%   🌐      │
+        └──────────────────────────────────────────────────────┘
+
+        [MODULE] Technology
+        ┌──────────────────────────────────────────────────────┐
+        │  React         [████████████░░░░░░░░]  60%   🌹      │
+        │  Vite          [████████████████░░░░]  80%   ⚡      │
+        │  MySQL         [██████████████░░░░░░]  70%   🗄️      │
+        │  Git / GitHub  [███████████████████░]  95%   🔗      │
+        │  Docker        [██████░░░░░░░░░░░░░░]  30%   🐳      │
+        │  Kivy          [████████████████░░░░]  80%   ✨      │
+        │  Spring        [█████░░░░░░░░░░░░░░░]  25%   🍃      │
+        └──────────────────────────────────────────────────────┘
 
 
-<p align="center">I'm 16 years old and I love it. Currently I'm learning web development!! 🦀</p>
+─────────────────────────────【 🐈‍⬛ MODULE LOADED - GITHUB STATS 】────────────────────────────
+```
 
-<p align="center">I'm still learning but I can use this technologies:</p>
+<p align="left">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=charleswiiflowers&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000">
+  
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=charleswiiflowers&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=00000000&langs_count=6&hide=css,html">
+  
+  <img src="https://streak-stats.demolab.com/?user=Charleswiiflowers&theme=github-dark&hide-border=true">
+</p>
 
-<p align="center"><img src="https://skillicons.dev/icons?i=arduino,css,js,html,java,rust,ts,py,c,cpp,git,github,docker,mysql,npm"></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=react,tensorflow,gradle,vite,vscode"></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=charleswiiflowers" alt="charleswiiflowers" /> 
+<a href="https://user-badge.committers.top/el_salvador/CharlesWiiFlowers"><img src="https://user-badge.committers.top/el_salvador/CharlesWiiFlowers.svg" alt="top commit bages"/></a></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charleswiiflowers&layout=donut&theme=dark"></p>
 
-<h2></h2>
-<h2 align="center">💾 Thank you for read ⚙️
-<p align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8tytdfohe1dmsoox1s5kxqcao&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></p>
+```
+─────────────────────────────【 ⚡ PRESS ENTER TO DEPLOY 】────────────────────────────
+                                                                                                   
+```
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=charleswiiflowers" alt="charleswiiflowers" /> </p>
-
-[![Top Commits badge](https://user-badge.committers.top/el_salvador/CharlesWiiFlowers.svg)](https://user-badge.committers.top/el_salvador/CharlesWiiFlowers)
 <!--
 mysql,arduino,rust,java,gradle,py,c,cpp,vscode
 ![Bye](https://github.com/CarlosCuack/CarlosCuack/blob/9ee704e3e4673890a9b285a34dc918eac235b042/Pikachu%20Dance.gif)
