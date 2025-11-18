@@ -26,9 +26,8 @@
     Core Traits:   [LOAD FAILED] MISSING INFORMATION
     Mission:       Make the world a better place.
     Alignment:     Witch From Mercury — hopeful, brave, softhearted metal.
-    Favorite Ops:  Programar, imaginar, cantar, aprender, filosofar.
-    Favorite Ops:  Develop, play piano, learn new things, 
-    Future Path:   Space Sector/* Mechatronic/*
+    Favorite Ops:  Being a developer, playing piano, learning new things, playing videogames.
+    Future Path:   Space_Sector/* Mechatronic/*
 
 ─────────────────────────【 🛡️ MODULES LOADED - SKILL STATS 】─────────────────────────
 
